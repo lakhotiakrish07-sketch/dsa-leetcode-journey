@@ -7,9 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
