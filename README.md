@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
