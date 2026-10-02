@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
@@ -72,5 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
