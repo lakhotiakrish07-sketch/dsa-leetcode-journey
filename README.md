@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
