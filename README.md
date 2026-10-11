@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0485-max-consecutive-ones) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0119-pascals-triangle-ii) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
