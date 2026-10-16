@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0485-max-consecutive-ones) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -118,4 +120,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
