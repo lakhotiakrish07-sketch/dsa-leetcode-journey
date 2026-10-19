@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
