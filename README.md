@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lakhotiakrish07-sketch/dsa-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
